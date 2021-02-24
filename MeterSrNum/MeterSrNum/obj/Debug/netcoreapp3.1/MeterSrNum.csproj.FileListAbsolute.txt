@@ -1,0 +1,13 @@
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.exe
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.deps.json
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.runtimeconfig.json
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.runtimeconfig.dev.json
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.dll
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\bin\Debug\netcoreapp3.1\MeterSrNum.pdb
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.AssemblyInfoInputs.cache
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.AssemblyInfo.cs
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.csproj.CoreCompileInputs.cache
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.dll
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.pdb
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.genruntimeconfig.cache
+D:\Projects\Unit-Testing-On-SerialNumOfMeters\MeterSrNum\MeterSrNum\obj\Debug\netcoreapp3.1\MeterSrNum.csprojAssemblyReference.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\unit test using c#\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
+      "projectUniqueName": "D:\\Projects\\Unit-Testing-On-SerialNumOfMeters\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
       "projectName": "MeterSrNum",
-      "projectPath": "D:\\Projects\\unit test using c#\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
+      "projectPath": "D:\\Projects\\Unit-Testing-On-SerialNumOfMeters\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
       "packagesPath": "C:\\Users\\ravindras\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\unit test using c#\\MeterSrNum\\MeterSrNum\\obj\\",
+      "outputPath": "D:\\Projects\\Unit-Testing-On-SerialNumOfMeters\\MeterSrNum\\MeterSrNum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

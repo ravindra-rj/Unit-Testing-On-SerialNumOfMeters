@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wk/pppDZZeCxTnIX5mPfh//tXnM4XCFkeIPAH5sT0qEG68eZNikuCN4ZBlvrDHoII6UR/zn7h4VLjDUetY7tXg==",
+  "dgSpecHash": "kDNc49h4l4nEL29fZPLfmAUYKEqcQt6GO904OyPR0wlhqP4ig1/iNjLT26GhKQ5/05j8+M1u7wc7j2JWPHATLA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\unit test using c#\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
+  "projectFilePath": "D:\\Projects\\Unit-Testing-On-SerialNumOfMeters\\MeterSrNum\\MeterSrNum\\MeterSrNum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
